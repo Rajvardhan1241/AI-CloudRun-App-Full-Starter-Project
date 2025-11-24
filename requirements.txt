@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+pymongo
+google-cloud-spanner
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-aiplatform
+python-dotenv
+requests
